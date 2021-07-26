@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Java and Lua
 - 🌱 I’m currently learning Java and Lua
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Email-> salamandarim277@gmail.com
 
 <!---
 Salamandarim277/Salamandarim277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
