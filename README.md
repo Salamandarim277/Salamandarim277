@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Salamandarim277
-- 👀 I’m interested in Python, Java and Lua
-- 🌱 I’m currently learning Java and Lua
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Email-> salamandarim277@gmail.com
-
-<!---
-Salamandarim277/Salamandarim277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá sou o Salamandarim277
+- 👀 Estou interessado em Python, Java e Lua
+- 🌱 Estou atualmente aprendendo Java e Lua.
+- 📌 Tenho conhecimentos em Python Java e Lua, não tenho nenhum repositorio de Python no momento pois acabei perdendo.
+      Mas vou desenvolver alguns projetos futuramente para colocar aqui.
+- 🦈 Tenho 16 anos e gosto de tubarões
+- 📫 Como me contatar: Email-> salamandarim277@gmail.com Discord -> Sala#0277
