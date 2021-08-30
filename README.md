@@ -1,4 +1,4 @@
-- 👋 Oie sou o Salamandarim277
+- 👋 Oie sou o Wellyton Manoel De Souza
 - 👀 Estou interessado em Python, Java e Lua
 - 🌱 Estou atualmente aprendendo Java e Lua.
 - 📌 Tenho conhecimentos em Python Java e Lua, não tenho nenhum repositorio de Python no momento pois acabei perdendo.
