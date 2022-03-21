@@ -1,6 +1,8 @@
-
+- 👨‍💻 Me chamo Wellyton Manoel de Souza
 - 🦈 Tenho 17 anos e gosto de tubarões
 - 📫 Como me contatar: Email-> salamandarim277@gmail.com Discord -> Sala#1960
+- 📖 Tenho interesse tanto em front-end quanto em back-end. 
+- 💾 Possuo conhecimentos em Python, Java, Lua, HTML, CSS, JS e MySQL
 
 ##
 
