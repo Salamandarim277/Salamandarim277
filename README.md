@@ -14,11 +14,11 @@
       
 <div style="display: inline_block"><br>
   <img align="center" alt="Sala-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sala-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Sala-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Sala-Lua" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
   <img align="center" alt="Sala-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Sala-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-   <img align="center" alt="Sala-JS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Sala-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Sala-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
